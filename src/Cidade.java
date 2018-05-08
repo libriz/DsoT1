@@ -8,6 +8,8 @@
  *
  * @author ramon
  */
-public class Cidade {
-    
+public enum Cidade {
+    FLORIANOPOLIS,
+    SAO_JOSE,
+    PALHOCA;
 }
